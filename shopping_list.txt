@@ -1,0 +1,4 @@
+Find out how you can remove changes from the state where they are being added to the next commit (under Changes to be committed), and move them under the headline Changes not staged for commit? Hint: git status will help.
+Add some new products to the shopping list, and add them to the next commit (so that they are under Changes to be committed). Don't create the commit yet.
+Then remove the changes from the next commit.
+Then remove the changes, using Git, so that when you open the shopping list, the new products are not there.
